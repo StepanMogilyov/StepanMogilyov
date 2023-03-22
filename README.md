@@ -162,12 +162,4 @@ Here are some ideas to get you started:
       alt="Stepan Mogilyov"
   /></a>
 
-  <a href="https://wa.me/9672704115" target="blank"
-    ><img
-      align="center"
-      src="https://image.pngaaa.com/963/691963-middle.png"
-      alt="Stepan Mogilyov"
-      width="48"
-      height="48"
-  /></a>
 </p>
