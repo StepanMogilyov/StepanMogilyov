@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=StepanMogilyov&label=Profile%20views&color=0e75b6&style=flat"
-    alt="StepanMogilyov"
-  />
-</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -146,7 +140,7 @@ Here are some ideas to get you started:
     />
   </a>
 </p>
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Contact with me:</h3>
 <p align="center">
   <a href="https://t.me/Stepo4kaaa" target="blank"
     ><img
