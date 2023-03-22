@@ -162,4 +162,14 @@ Here are some ideas to get you started:
       src="https://camo.githubusercontent.com/e2cb3e9b628d934cc325efa9dd437bcf60d947c47e98f6341ae8d2d594a6c600/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6c696e6b6564696e2d322d2d76312e706e67"
       alt="Stepan Mogilyov"
   /></a>
+<a
+    href="https://www.linkedin.com/in/stepan-mogilyov/"
+    target="blank"
+    ><img
+      align="center"
+      src="https://cdn.steemitimages.com/DQmYPWL9B2Gz7oENjuJxcQ59X5tdwWD71qaqrh5W9xM8xy7/whatsapp-2288548_1920.png"
+      alt="Stepan Mogilyov"
+      width="60"
+      height="60"
+  /></a>
 </p>
