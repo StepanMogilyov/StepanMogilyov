@@ -155,6 +155,8 @@ Here are some ideas to get you started:
       alt="@Stepo4kaaa"
   /></a>
 
+  
+  
   <a href="https://www.linkedin.com/in/stepan-mogilyov/" target="blank"
     ><img
       align="center"
