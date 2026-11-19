@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="101" height="30" viewBox="0 0 101 30" role="img" aria-label="Telegraf">
+  <style>
+    .tech-surface { fill: #456C9A; fill-opacity: .14; }
+    text { fill: #303943; }
+    @media (prefers-color-scheme: dark) {
+      .tech-surface { fill-opacity: .22; }
+      text { fill: #D6DFE9; }
+    }
+  </style>
+  <rect class="tech-surface" y="3" width="97" height="24" rx="6"/>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#428C80" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" x="6" y="5" width="20" height="20">
+  <rect x="4" y="7" width="16" height="13" rx="3"/><path d="M12 7V4m-9 8H2m20 0h-1m-12 1h.01m6 0h.01m-6 3h6"/>
+</svg>
+  <text x="32" y="20.5" font-family="Arial, Helvetica, sans-serif" font-size="16">Telegraf</text>
+</svg>

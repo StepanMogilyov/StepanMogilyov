@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="86" height="30" viewBox="0 0 86 30" role="img" aria-label="CI/CD">
+  <style>
+    .tech-surface { fill: #456C9A; fill-opacity: .14; }
+    text { fill: #303943; }
+    @media (prefers-color-scheme: dark) {
+      .tech-surface { fill-opacity: .22; }
+      text { fill: #D6DFE9; }
+    }
+  </style>
+  <rect class="tech-surface" y="3" width="82" height="24" rx="6"/>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#428C80" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" x="6" y="5" width="20" height="20">
+  <path d="M4 10a8 8 0 0 1 14-4l2 2m0-5v5h-5m5 6a8 8 0 0 1-14 4l-2-2m0 5v-5h5"/>
+</svg>
+  <text x="32" y="20.5" font-family="Arial, Helvetica, sans-serif" font-size="16">CI/CD</text>
+</svg>
