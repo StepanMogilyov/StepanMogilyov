@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/smoglv"><img src="./assets/contact-telegram.svg" alt="Telegram" width="104"></a>
-  <a href="https://wa.me/79672704115"><img src="./assets/contact-whatsapp.svg" alt="WhatsApp" width="104"></a>
-  <a href="https://www.linkedin.com/in/stepan-mogilyov/"><img src="./assets/contact-linkedin.svg" alt="LinkedIn" width="104"></a>
+  <a href="https://t.me/smoglv" title="https://t.me/smoglv"><img src="./assets/contact-telegram.svg" alt="Telegram" width="104"></a>
+  <a href="https://wa.me/79672704115" title="https://wa.me/79672704115"><img src="./assets/contact-whatsapp.svg" alt="WhatsApp" width="104"></a>
+  <a href="https://www.linkedin.com/in/stepan-mogilyov/" title="https://www.linkedin.com/in/stepan-mogilyov/"><img src="./assets/contact-linkedin.svg" alt="LinkedIn" width="104"></a>
 </p>
 
 ## Tech stack
