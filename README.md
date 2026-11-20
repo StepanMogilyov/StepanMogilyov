@@ -6,6 +6,7 @@
   <a href="https://t.me/smoglv" title="https://t.me/smoglv"><img src="./assets/contact-telegram.svg" alt="Telegram" width="104"></a>
   <a href="https://wa.me/79672704115" title="https://wa.me/79672704115"><img src="./assets/contact-whatsapp.svg" alt="WhatsApp" width="104"></a>
   <a href="https://www.linkedin.com/in/stepan-mogilyov/" title="https://www.linkedin.com/in/stepan-mogilyov/"><img src="./assets/contact-linkedin.svg" alt="LinkedIn" width="104"></a>
+  <a href="mailto:st.mogilev@mail.ru" title="st.mogilev@mail.ru"><img src="./assets/contact-email.svg" alt="Email" width="104"></a>
 </p>
 
 ## Tech stack
@@ -53,7 +54,7 @@
   <a href="https://mui.com/material-ui/getting-started/"><img src="./assets/tech/materialui.svg" alt="Material UI" title="Material UI" height="30"></a>
   <a href="https://ant.design/docs/react/introduce/"><img src="./assets/tech/antdesign.svg" alt="Ant Design" title="Ant Design" height="30"></a>
   <a href="https://react-bootstrap.github.io/docs/getting-started/introduction/"><img src="./assets/tech/reactbootstrap.svg" alt="React Bootstrap" title="React Bootstrap" height="30"></a>
-  <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/"><img src="./assets/tech/bootstrap.svg" alt="Bootstrap" title="Bootstrap" height="30"></a>
+  <a href="https://tailwindcss.com/docs/styling-with-utility-classes"><img src="./assets/tech/tailwindcss.svg" alt="Tailwind" title="Tailwind" height="30"></a>
 </p>
 
 <p>
